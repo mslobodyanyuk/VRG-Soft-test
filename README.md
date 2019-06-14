@@ -30,7 +30,7 @@ Step 4:
 Result page. Print the message 										
 successful submission, and output feedBackDataId. 					
 
-###POST request example:
+### POST request example:
 ```php
 {
 "client_id": 1,
@@ -39,7 +39,7 @@ successful submission, and output feedBackDataId.
 }
 ```
 
-###An example of a successful response:
+### An example of a successful response:
 ```php
 {
 "feedBackDataId": "rPNrGXssXbUpUSNTyKTVLDc4ufQBKbou"
@@ -121,7 +121,7 @@ return [
 Useful links:
 =============
 
-####Registration
+#### Registration
 * Yii2 basic: Registration and authorization through the database, changing the User class
 
 <http://bologer.ru/yii2-basic-registraciya-i-avtorizaciya-cherez-bazu-menyaem-user-klass/>
@@ -130,12 +130,12 @@ Useful links:
 
 <https://www.youtube.com/watch?v=Ee7UAf2y0P4>
 
-####Logging
+#### Logging
 * Yii2 basic: Logs. How to make them and why are they needed?
 
 <http://bologer.ru/yii2-basic-logi-kak-ix-delat-i-pochemu-oni-nuzhny/>
 
-####Step by step form 
+#### Step by step form 
 * Step Wizard with Bootstrap 4 (9:13)
 
 <https://www.youtube.com/watch?v=5czWkFFLdQc>
